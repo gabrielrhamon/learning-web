@@ -1,0 +1,27 @@
+{
+  "name": "learning-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielrhamon/learning-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielrhamon/learning-web/issues"
+  },
+  "homepage": "https://github.com/gabrielrhamon/learning-web#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "next": "^10.0.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
